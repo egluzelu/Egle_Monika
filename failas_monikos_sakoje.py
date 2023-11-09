@@ -1,0 +1,1 @@
+print("labas nuo Monikos is sakos")
